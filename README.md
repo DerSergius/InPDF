@@ -9,6 +9,8 @@
 При необходимости повторить
 Надпись делается слева сверху, в будущем, возможно, добавлю возможность смены места текста
 
+Текст добавится на КАЖДУЮ страницу документа
+
 -------------------------------------------------------------------------------------------------------------------------
 The operation of the program is as simple as possible. Follow 4 steps to work correctly
 
@@ -19,3 +21,5 @@ The operation of the program is as simple as possible. Follow 4 steps to work co
 
 Repeat if necessary
 The inscription is made on the top left, in the future, perhaps, I will add the possibility of changing the place of the text
+
+The text will be added to EACH page of the document
